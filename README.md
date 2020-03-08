@@ -1,5 +1,5 @@
 # hello_world
 
-A new Flutter project.
+Simple Flutter project Hello World
 
 
